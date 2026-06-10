@@ -47,3 +47,6 @@ I like turning ideas into working software — whether that's training an AI to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashita-sharma-a867b4384/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashitaofficial07@gmail.com)
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhycHp3bmxzbjhzOXRkMWZ3emNrMm1yOTgxc3E5NTV0MWtxaTM3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zkMri4yiJ3Mdy/giphy.gif" width="200" />
+</p>
