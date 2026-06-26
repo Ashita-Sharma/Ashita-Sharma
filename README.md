@@ -1,4 +1,4 @@
-# Hey, I'm Ashita 👋
+# Hey, I'm Ashita :v:
 
 **Bachelors of Computer Science and AI @ Indira Gandhi Delhi Technical University For Women** | Building things with Python, Flask & ML
 
@@ -6,12 +6,12 @@ I like turning ideas into working software — whether that's training an AI to 
 
 ---
 
-### 🔥 Featured Projects
+### :star2: Featured Projects
 
 | Project | What it does | Tech |
 |---------|-------------|------|
 | [**Resume Analyzer**](https://github.com/Ashita-Sharma/resume_analyzer) | AI-powered resume–job matching using semantic embeddings and keyword analysis | Flask · spaCy · TF-IDF · BERT |
-| [**HabitTrackerSite**](https://github.com/Ashita-Sharma/HabitTrackerSite) | Full-stack task & habit tracker with auth, search, filtering, and priority management | Flask · SQLite · Bootstrap |
+| [**Finance Management System**](https://github.com/Ashita-Sharma/Finance-Tracker) | Full-stack task & finance manager with auth, budgeting, filtering and charts  | Flask · SQLite · Bootstrap |
 | [**FlappyBirdAI**](https://github.com/Ashita-Sharma/FlappyBirdAI) | Neural network that evolves to play Flappy Bird using neuroevolution | Python · NEAT · Pygame |
 | [**Sign-Language-Detection**](https://github.com/Ashita-Sharma/Sign-Language-Detection) | Real-time ASL sign language recognition from webcam | OpenCV · scikit-learn |
 | [**Doodle Classification**](https://github.com/Ashita-Sharma/Doodle_Classification) | Image classifier trained on a custom-built doodle dataset | Python · ML |
