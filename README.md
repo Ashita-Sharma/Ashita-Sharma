@@ -11,7 +11,7 @@ I like turning ideas into working software — whether that's training an AI to 
 | Project | What it does | Tech |
 |---------|-------------|------|
 | [**Resume Analyzer**](https://github.com/Ashita-Sharma/resume_analyzer) | AI-powered resume–job matching using semantic embeddings and keyword analysis | Flask · spaCy · TF-IDF · BERT |
-| [**Finance Management System**](https://github.com/Ashita-Sharma/Finance-Tracker) | Full-stack task & finance manager with auth, budgeting, filtering and charts  | Flask · SQLite · Bootstrap |
+| [**Finance Management System**](https://github.com/Ashita-Sharma/Finance-Tracker) | Full-stack manager with auth, budgeting, filtering and charts  | Flask · SQLite · Bootstrap |
 | [**FlappyBirdAI**](https://github.com/Ashita-Sharma/FlappyBirdAI) | Neural network that evolves to play Flappy Bird using neuroevolution | Python · NEAT · Pygame |
 | [**Sign-Language-Detection**](https://github.com/Ashita-Sharma/Sign-Language-Detection) | Real-time ASL sign language recognition from webcam | OpenCV · scikit-learn |
 | [**Doodle Classification**](https://github.com/Ashita-Sharma/Doodle_Classification) | Image classifier trained on a custom-built doodle dataset | Python · ML |
